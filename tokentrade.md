@@ -25,7 +25,7 @@ Pengguna dalam game ini berperan sebagai pemilik **crypto exchange**. Tugas mere
    - Untuk mencapai pertumbuhan yang lebih besar, pengguna harus meng-upgrade exchange mereka ke **tier yang lebih tinggi**. Setiap tier membuka fitur baru, seperti:
      - **Tier 1**: Exchange dasar, hanya mampu menangani 1 jenis pair trading.
      - **Tier 2**: Mendukung 5 jenis pair trading, dan fitur dasar trading competition.
-     - **Tier 3**: Mendukung 10 pair trading, dan unlock program **staking** serta **liquidity mining**.
+     - **Tier 3**: Mendukung 10 pair trading, dan unlock program **staking** serta **liquidity staking**.
      - **Tier 4**: Mendukung listing NFT, dukungan pair stablecoin, dan fitur staking dengan reward lebih tinggi.
      - **Tier 5**: Volume trading tinggi, program referral tingkat lanjut, dan unlock trading bot integration untuk memaksimalkan likuiditas.
 
@@ -59,12 +59,9 @@ Seperti pada KeepGem Wallet, pengguna bisa melakukan berbagai peningkatan untuk 
      - **Level 3**: Mendukung **one-click trading** dan analitik real-time.
      - **Pengaruh Reward**: **Meningkatkan volume transaksi hingga 20%** dan **menambah total pengguna hingga 10%**.
 
-5. **Fitur Staking dan Liquidity Mining** (di tier lebih tinggi)
+5. **Fitur Staking dan Liquidity Staking** (di tier lebih tinggi)
    - Pengguna bisa membuka fitur **staking** dan **yield farming** di exchange mereka, memungkinkan pengguna untuk mengunci token mereka untuk mendapatkan keuntungan pasif, yang meningkatkan likuiditas dan menarik lebih banyak pengguna.
    - **Pengaruh Reward**: **Meningkatkan volume transaksi dan menarik pengguna baru**, berkontribusi pada total pengguna yang lebih tinggi.
-
-#### **Mining dan Pengumpulan Poin**
-Seperti dalam skema **mining**, pengguna dapat “menambang” reputasi, anggota, atau volume transaksi berdasarkan kinerja mereka dalam menyelesaikan task. Sistem **daily rewards** bisa diterapkan untuk memberikan bonus jika pengguna login setiap hari dan menjalankan tugas tertentu, seperti memperbarui listing token atau memulai promosi baru.
 
 #### **Exchange Tier dan Bonus**
 Semakin tinggi tier exchange, semakin banyak manfaat yang diperoleh:
@@ -111,9 +108,6 @@ Dalam skema ini, pengguna dapat mengelola exchange mereka dengan strategi pertum
 **: 
      - 20 Token untuk setiap referral baru yang berhasil mendaftar dan melakukan transaksi.
 
-     Berikut adalah kelanjutan dari skema game trading dengan menambahkan poin 6 dan 7:
-
----
 
 6. **Participate in Trading Competitions**
    - **Deskripsi**: Pengguna dapat berpartisipasi dalam kompetisi trading yang diadakan secara berkala di exchange. Kompetisi ini tidak hanya menarik trader untuk bersaing tetapi juga meningkatkan volume trading secara signifikan. Pengguna yang mendapatkan posisi tertinggi akan menerima reward tambahan.
