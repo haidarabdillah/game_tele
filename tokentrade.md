@@ -37,26 +37,31 @@ Seperti pada KeepGem Wallet, pengguna bisa melakukan berbagai peningkatan untuk 
      - **Level 1**: Transaksi berjalan 1.2x lebih cepat.
      - **Level 2**: Latensi berkurang, meningkatkan pengalaman pengguna.
      - **Level 3**: Mendukung lebih banyak transaksi per detik (TPS).
+     - **Pengaruh Reward**: **Meningkatkan volume transaksi hingga 10-20%** dan **menambah total pengguna hingga 15%**.
 
 2. **Marketing Campaign Boosts**
    - **Iklan Berbayar**: Pengguna bisa membeli paket iklan berbayar untuk mempromosikan exchange mereka.
      - **Social Media Campaign**: Menambah 10% pengguna baru.
      - **Influencer Partnership**: Meningkatkan volume transaksi dengan mendatangkan trader besar.
      - **Referral Program**: Setiap pengguna yang berhasil mereferensikan anggota baru mendapat hadiah berupa token.
+     - **Pengaruh Reward**: **Meningkatkan total pengguna hingga 10-25%** dan **volume transaksi hingga 5-15%**.
 
 3. **Peningkatan Fitur Trading**
    - **Trading Competitions**: Menarik lebih banyak pengguna untuk ikut serta dalam kompetisi trading di exchange.
    - **Listing New Tokens**: Semakin banyak token yang dilisting, semakin besar minat pengguna untuk bergabung dan berdagang di platform Anda.
    - **Discount Fee Trading**: Memberikan diskon biaya transaksi untuk meningkatkan volume trading, terutama untuk pengguna baru.
+   - **Pengaruh Reward**: **Meningkatkan volume transaksi hingga 15-30%** dan **menambah total pengguna hingga 10%**.
 
-4. **Fitur Staking dan Liquidity Mining** (di tier lebih tinggi)
-   - Pengguna bisa membuka fitur **staking** dan **yield farming** di exchange mereka, memungkinkan pengguna untuk mengunci token mereka untuk mendapatkan keuntungan pasif, yang meningkatkan likuiditas dan menarik lebih banyak pengguna.
-
-5. **Upgrade Aplikasi Mobile**
+4. **Upgrade Aplikasi Mobile**
    - Pengguna dapat mengembangkan **aplikasi mobile** yang lebih efisien, membantu trader untuk lebih aktif dan meningkatkan volume transaksi kapan saja.
      - **Level 1**: Aplikasi dasar dengan trading sederhana.
      - **Level 2**: Notifikasi harga dan trading alert.
      - **Level 3**: Mendukung **one-click trading** dan analitik real-time.
+     - **Pengaruh Reward**: **Meningkatkan volume transaksi hingga 20%** dan **menambah total pengguna hingga 10%**.
+
+5. **Fitur Staking dan Liquidity Mining** (di tier lebih tinggi)
+   - Pengguna bisa membuka fitur **staking** dan **yield farming** di exchange mereka, memungkinkan pengguna untuk mengunci token mereka untuk mendapatkan keuntungan pasif, yang meningkatkan likuiditas dan menarik lebih banyak pengguna.
+   - **Pengaruh Reward**: **Meningkatkan volume transaksi dan menarik pengguna baru**, berkontribusi pada total pengguna yang lebih tinggi.
 
 #### **Mining dan Pengumpulan Poin**
 Seperti dalam skema **mining**, pengguna dapat “menambang” reputasi, anggota, atau volume transaksi berdasarkan kinerja mereka dalam menyelesaikan task. Sistem **daily rewards** bisa diterapkan untuk memberikan bonus jika pengguna login setiap hari dan menjalankan tugas tertentu, seperti memperbarui listing token atau memulai promosi baru.
@@ -101,27 +106,27 @@ Dalam skema ini, pengguna dapat mengelola exchange mereka dengan strategi pertum
 
 5. **Referral Harian**
    - **Deskripsi**: Menerima anggota baru melalui program referral setiap hari. Pengguna yang berhasil membawa anggota baru ke exchange akan mendapatkan reward tambahan. Referral ini meningkatkan jumlah pengguna dan memperluas komunitas exchange.
+   - **Reward
+
+**: 
+     - 20 Token untuk setiap referral baru yang berhasil mendaftar dan melakukan transaksi.
+
+     Berikut adalah kelanjutan dari skema game trading dengan menambahkan poin 6 dan 7:
+
+---
+
+6. **Participate in Trading Competitions**
+   - **Deskripsi**: Pengguna dapat berpartisipasi dalam kompetisi trading yang diadakan secara berkala di exchange. Kompetisi ini tidak hanya menarik trader untuk bersaing tetapi juga meningkatkan volume trading secara signifikan. Pengguna yang mendapatkan posisi tertinggi akan menerima reward tambahan.
    - **Reward**: 
-     - 10 Token untuk setiap anggota baru yang bergabung melalui referral + 1% peningkatan volume transaksi jika membawa lebih dari 3 anggota baru dalam sehari.
+     - 100 Token untuk posisi 1.
+     - 50 Token untuk posisi 2-5.
+     - 25 Token untuk posisi 6-10.
+     - Setiap peserta yang mencapai volume trading minimum selama kompetisi akan mendapatkan 10 Token sebagai insentif.
 
-6. **Promosi Sosial Media**
-   - **Deskripsi**: Memperbanyak visibilitas exchange dengan membagikan tautan atau promosi exchange di media sosial. Setiap pengguna yang melakukan posting promosi tentang exchange di platform sosial media akan mendapatkan reward harian.
+7. **Aktif dalam Komunitas dan Media Sosial**
+   - **Deskripsi**: Pengguna yang aktif berinteraksi di media sosial dan forum komunitas untuk mempromosikan exchange mereka akan mendapatkan reward. Aktivitas ini termasuk membagikan konten, mengikuti akun resmi exchange, dan berpartisipasi dalam diskusi. Ini dapat meningkatkan kesadaran tentang exchange dan menarik lebih banyak pengguna.
    - **Reward**: 
-     - 15 Token per hari untuk postingan media sosial yang terverifikasi (hingga 3 kali sehari).
-     - 5 Token tambahan jika postingan mendapat lebih dari 50 interaksi (like/retweet/share).
+     - 5 Token untuk setiap postingan yang dibagikan di media sosial.
+     - 10 Token untuk setiap komentar informatif di forum komunitas.
+     - Bonus 50 Token jika pengguna mencapai 10 postingan dalam sebulan.
 
-7. **Volume Pasangan Trading Spesifik**
-   - **Deskripsi**: Setiap hari, pengguna dapat memilih pasangan trading tertentu yang harus ditingkatkan volumenya, misalnya **BTC/USDT** atau **ETH/USDT**. Jika target volume harian untuk pasangan tersebut tercapai, pengguna dapat mengklaim reward.
-   - **Reward**: 
-     - 10 Token untuk mencapai 500 USDT volume trading pada pasangan yang ditentukan.
-     - 20 Token untuk mencapai 2,000 USDT volume trading.
-
-### **Sistem Daily Streak**
-- **Deskripsi**: Pengguna yang menyelesaikan semua tugas harian secara berturut-turut selama 7 hari akan mendapatkan **bonus tambahan** untuk setiap streak.
-- **Reward**:
-  - **Streak 7 hari**: 50 Token + 5% bonus peningkatan volume transaksi selama 24 jam.
-
-### **Bonus Daily Task**
-Selain reward utama, beberapa daily task bisa memiliki **bonus** tambahan berdasarkan keberhasilan berulang, seperti:
-- **5 Listing Token Baru dalam seminggu**: Unlock fitur trading baru.
-- **Mencapai target volume trading harian selama 5 hari berturut-turut**: Unlock peningkatan level exchange.
