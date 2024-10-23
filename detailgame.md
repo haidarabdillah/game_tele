@@ -1,4 +1,4 @@
-### **Game Exchange Management**
+### **Game Exchange Management 0.1**
 
 #### **Prinsip Dasar**
 
@@ -61,9 +61,11 @@ Pemain berperan sebagai pemilik **crypto exchange** dalam sebuah simulasi. Tugas
 
 
    level exchange :
-   1. nasional : + 5% profit
-   1. multinasional : + 10% profit
-   1. internasional : + 15% profit
+   1. Simple exchange : + 0% profit ( all level 1)
+   2. local exchange : + 5% profit ( all level 2)
+   3. National Exchange : + 10% profit ( all level 3)
+   4. Multinational Exchange : + 15% profit ( all level 4)
+   5. International Exchange : + 20% profit ( all level 5)
 
 
 #### **Kesimpulan**
