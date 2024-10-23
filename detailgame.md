@@ -85,6 +85,8 @@ Untuk membuat game lebih menarik dan memberikan insentif tambahan kepada pemain,
 2. **Pemain Baru (Referral)**:
    - **Bonus Pendaftaran**: Mendapatkan bonus point saat mendaftar menggunakan kode referral, misalnya **100 point**.
 
+3. **Reward Berdasarkan Klaim Harian**: 
+     - Reward yang diterima oleh referrer adalah hasil klaim yang dilakukan oleh referral di hari sebelumnya. Jika referral tidak melakukan klaim, maka referrer tidak akan menerima bonus untuk hari tersebut.
 #### **Contoh Skema**
 
 - **Pemain A** mengajak **Pemain B** dengan kode referral.
@@ -150,4 +152,34 @@ Berikut adalah sistem daily check-in yang disederhanakan sesuai permintaan:
 
 ---
 
-Dengan sistem ini, pemain akan mendapatkan reward yang lebih sederhana dan jelas. Jika ada yang ingin disesuaikan lebih lanjut, beri tahu saja!
+### **Skema Misi Jangka Panjang**
+
+#### **Jenis Misi**
+Misi ini mengharuskan pemain untuk mencapai target pengumpulan poin sambil mempertahankan jumlah referral aktif.
+
+#### **Contoh Misi dan Reward**
+
+| **Level** | **Target**                                | **Reward**     |
+|-----------|-------------------------------------------|----------------|
+| 1         | Total poin terkumpul: **200,000** & **50** referral aktif | 100 poin       |
+| 2         | Total poin terkumpul: **500,000** & **100** referral aktif | 250 poin       |
+| 3         | Total poin terkumpul: **1,000,000** & **200** referral aktif | 500 poin       |
+
+### **Penjelasan Skema**
+- **Target**:
+  - Pemain harus memenuhi kedua syarat secara bersamaan: mengumpulkan jumlah poin yang ditentukan dan memiliki jumlah referral aktif yang ditentukan.
+  
+- **Reward**:
+  - Setiap kali pemain berhasil mencapai target misi yang ditentukan, mereka akan menerima reward dalam bentuk poin.
+
+### **Mekanisme Penyelesaian Misi**
+- Pemain akan mendapatkan notifikasi ketika mereka mencapai target misi.
+- Setelah menyelesaikan misi, reward akan otomatis ditambahkan ke total poin pemain.
+
+### **Contoh Implementasi**
+- **Level 1 Misi**: 
+  - Pemain perlu mengumpulkan **200,000** poin dan memiliki **50 referral aktif** untuk mendapatkan **100 poin** sebagai reward.
+  
+- **Level 2 Misi**: 
+  - Pemain perlu mengumpulkan **500,000** poin dan memiliki **100 referral aktif** untuk mendapatkan **250 poin** sebagai reward.
+
