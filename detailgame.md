@@ -30,11 +30,11 @@ Pemain berperan sebagai pemilik **crypto exchange** dalam sebuah simulasi. Tugas
 
 1. **Volume Trading Upgrade**:
 
-   - **Level 1**: Maximum Volume trading per claim **$100,000**.
-   - **Level 2**: Maximum Volume trading per claim **$250,000**.
-   - **Level 3**: Maximum Volume trading per claim **$500,000**.
-   - **Level 4**: Maximum Volume trading per claim **$1,000,000**.
-   - **Level 5**: Maximum Volume trading per claim **$2,500,000**.
+   - **Level 1**: Maximum Volume trading  **$100,000**.
+   - **Level 2**: Maximum Volume trading  **$250,000**.
+   - **Level 3**: Maximum Volume trading  **$500,000**.
+   - **Level 4**: Maximum Volume trading  **$1,000,000**.
+   - **Level 5**: Maximum Volume trading  **$2,500,000**.
 
 2. **Total User Upgrade**:
 
