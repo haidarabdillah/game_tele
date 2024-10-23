@@ -59,6 +59,13 @@ Pemain berperan sebagai pemilik **crypto exchange** dalam sebuah simulasi. Tugas
    - **Level 4**: Meningkatkan profit sebesar **2,5%**.
    - **Level 5**: Meningkatkan profit sebesar **3%**.
 
+
+   level exchange :
+   1. nasional : + 5% profit
+   1. multinasional : + 10% profit
+   1. internasional : + 15% profit
+
+
 #### **Kesimpulan**
 
 Game ini berfokus pada **pengelolaan exchange secara sederhana** dengan melakukan upgrade elemen-elemen inti seperti volume trading, total user, total pair, dan efisiensi sistem. Pemain mendapatkan point dari daily task dan claim profit, yang kemudian digunakan untuk melakukan upgrade dan menghasilkan profit yang lebih besar.
@@ -185,4 +192,20 @@ Misi ini mengharuskan pemain untuk mencapai target pengumpulan poin sambil mempe
 - **Level 2 Misi**: 
   - Pemain perlu mengumpulkan **500,000** poin dan memiliki **100 referral aktif** (yang telah melakukan klaim minimal 1 kali) untuk mendapatkan **250 poin** sebagai reward.
 
-Dengan syarat ini, pemain akan lebih terdorong untuk mengajak orang lain bergabung dan memastikan bahwa referral yang mereka ajak aktif dalam permainan. Jika ada hal lain yang ingin ditambahkan atau diubah, silakan beri tahu!
+
+### **Konsep Klaim Poin**
+
+#### **Mekanisme Klaim**
+- **Frekuensi Klaim**: 
+  - Pemain dapat melakukan klaim poin setiap **jam**.
+  - Setiap kali pemain melakukan klaim, mereka harus menunggu **1 jam** sebelum bisa melakukan klaim berikutnya.
+
+#### **Proses Klaim**
+1. **Klaim Pertama**: 
+   - Pemain melakukan klaim poin, dan jumlah poin yang diterima berdasarkan rumus yang telah ditetapkan.
+   
+2. **Tunggu**: 
+   - Setelah klaim pertama, pemain akan diminta untuk menunggu selama **1 jam** sebelum dapat mengklaim lagi.
+   
+3. **Klaim Berikutnya**: 
+   - Setelah waktu tunggu satu jam berakhir, pemain dapat melakukan klaim lagi untuk mendapatkan poin.
